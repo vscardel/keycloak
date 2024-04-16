@@ -1,0 +1,5 @@
+# Diretórios de volume do Docker
+.docker/*
+
+# Arquivos de log do Docker
+*.log
